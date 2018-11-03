@@ -1,0 +1,10 @@
+git Config-- global user.email "ankush.mca@mietjammu.in"
+git config-- global user.name "ankushcse"
+git init
+git add [filename] !! -A
+git status
+git commit
+git remote add origin repoName
+git push origin master
+git clone repoName
+git pull origin master
